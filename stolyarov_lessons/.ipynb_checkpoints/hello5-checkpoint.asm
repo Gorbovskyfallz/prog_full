@@ -1,4 +1,4 @@
-%include    "stud_io.inc"        ; including file-library with macro 
+%include    "stud_io.inc"        ; напишем комментарий на русском 
 global      _start               ; enter point of program for operating system
 
 section     .text                
