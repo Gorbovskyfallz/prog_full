@@ -75,6 +75,8 @@ https://itisgood.ru/2019/07/25/kak-zapustit-docker-na-raspberry-pi/
     -- теперь включим випиен обратно и попробуем стартануть докер до и после перезагрузки системы.
     (ветка решения на докерфоруме: https://forums.docker.com/t/subprocess-installed-post-installation-script-returned-error-exit-status-1/37444/4)
     -- при запущенном впн до перезагрузки все работает, докер открывает образ.
+    -- некие заметки по докеру - для его использования под иот нужен голый образ, который можно написать только самому, можно попробовать засунуть в образ уже сделанную систему, хотя, сомневаюсь, что так получится, образ создается теми же командами, ему тоже надо откуда-то взяться.
+=======
     -- после перезагрузки поднимается и впн и докер, все работает.
     
                 ДОКЕР
@@ -88,6 +90,8 @@ https://itisgood.ru/2019/07/25/kak-zapustit-docker-na-raspberry-pi/
     -- нашел статью на русском по поводу использования докера и контейнеров на одноплатниках, среди описанных применений есть как раз то, что мне нужно (https://raspberrypi.ru/615-sozdaiom-sistemu-razvertyvaniya-prilozheniy-s-pomoschyu-docker)
     
     -- для того, чтобы поменять баш на ж -- chsh -s $(which zsh) с судо
+    -- установка автодополнения использованных команд git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
     
     
     
@@ -95,6 +99,9 @@ https://itisgood.ru/2019/07/25/kak-zapustit-docker-na-raspberry-pi/
     
     
     
+    
+
+
 
 
 
