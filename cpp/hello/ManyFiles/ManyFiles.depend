@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1643483807 source:c:\users\fella\desktop\prog_full\cpp\hello\manyfiles\secondfile.cpp
+	<iostream>
+
+1644170763 source:c:\users\fella\desktop\prog_full\cpp\hello\manyfiles\main.cpp
+	"header.h"
+	"typeinfo"
+	<iostream>
+	<iomanip>
+
+1643524955 source:c:\users\fella\desktop\prog_full\cpp\hello\manyfiles\thirdfile.cpp
+	<iostream>
+
+1643525493 c:\users\fella\desktop\prog_full\cpp\hello\manyfiles\header.h
+
+1643526138 source:c:\users\fella\desktop\prog_full\cpp\hello\manyfiles\dosomething.cpp
+	<iostream>
+

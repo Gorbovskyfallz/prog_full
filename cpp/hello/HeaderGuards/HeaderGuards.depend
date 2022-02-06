@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1643563435 source:c:\users\fella\desktop\prog_full\cpp\hello\headerguards\func.cpp
+	<iostream>
+
+1643563043 source:c:\users\fella\desktop\prog_full\cpp\hello\headerguards\main.cpp
+	<iostream>
+	"header.h"
+	"header2.h"
+
+1643563168 c:\users\fella\desktop\prog_full\cpp\hello\headerguards\header.h
+
+1643547567 c:\users\fella\desktop\prog_full\cpp\hello\headerguards\header2.h
+
+1643548408 source:c:\users\fella\desktop\prog_full\cpp\hello\headerguards\func2.cpp
+

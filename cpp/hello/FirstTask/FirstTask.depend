@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643913827 source:c:\users\fella\desktop\prog_full\cpp\hello\firsttask\main.cpp
+	<iostream>
+	<cstdint>
+
